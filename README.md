@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justinshortio
-- 👀 I’m interested in ... automation, IoT, data analysis, and artificial intelligence from a security perspective. 
+- 👀 I’m interested in ... automation, IoT, data analysis, and artificial intelligence. 
 - 🌱 I’m currently learning ... software defined networking.
-- 💞️ I’m looking to collaborate on ... opensource cross-platform technologies. 
-- 📫 How to reach me ... Skype: justinrshort7
+- 💞️ I’m looking to collaborate on ... open-source technologies. 
+- 📫 How to reach me ... justin@jshort.org
 
 <!---
 justinshortio/justinshortio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
