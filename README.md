@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justinshortio
-- 👀 I’m interested in ... automation and cybersecurity. 
+- 👀 I’m interested in ... automation, infrastructure as code, and cybersecurity. 
 - 🌱 I’m currently learning ... software defined networking.
 - 💞️ I’m looking to collaborate on ... open-source technologies. 
 - 📫 How to reach me ... justin@jshort.org
