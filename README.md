@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in ... automation, infrastructure as code, and cybersecurity. 
-- 🌱 I’m currently learning ... software defined networking.
-- 💞️ I’m looking to collaborate on ... open-source technologies. 
+- 👀 I’m interested in ... complex systems🌐, and artificial intelligence🧠
+- 📗 I’m currently learning ... highly distributed realtime systems🛰️
+- 🤝 I’m looking to collaborate on ... open-source and eccentric🎭
 - 📫 How to reach me ... justin@jshort.org
 
 <!---
